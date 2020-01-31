@@ -1,3 +1,5 @@
+For more background and explenations, see the blog post - https://www.operad.com/how-to-harness-bert-to-create-a-super-targeted-topic-cluster-content-strategy-for-seo-2/
+
 This code is using the following:
 
 - Sentence Embeddings using BERT - https://github.com/UKPLab/sentence-transformers
